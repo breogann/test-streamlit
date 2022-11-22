@@ -18,7 +18,7 @@ st.set_page_config(
 cover = Image.open("images/cover.jpg")
 st.image(cover, use_column_width=True)
 st.write("""
-# My awesome Dashboard
+# My SUPER awesome Dashboard
 ##     With Jake the Dog and Finn the Human 🚀
 """)
 f=codecs.open("data/adventure-youtube.html", 'r')
